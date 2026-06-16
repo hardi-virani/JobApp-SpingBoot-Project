@@ -52,6 +52,8 @@
     </div>
 </nav>
 
+<% JobPost myJobPost = (JobPost) request.getAttribute("jobPost"); %>
+
 <div class="container mt-5">
     <h2 class="mb-4 text-center font-weight-bold">Job Post Details</h2>
 
