@@ -34,7 +34,7 @@
     </div>
 </nav>
 
-<ab:set var="jobPosts" value="${jobPosts}" />
+<ab:set var="jobPosts" value="${addedjobs}" />
 
 <div class="container mt-5">
     <h2 class="mb-4 text-center font-weight-bold">Job Post List</h2>
